@@ -62,9 +62,9 @@ In the upcoming PopUp Window, you will see the permissions needed and you need t
 
 In MS Teams you can add the Avaya Calling App by clicking on **More Apps**, find the Avaya Call app and click on **Add**.
 
-![](/assets/img/2022-05-31-08-37-24.png)
+![](/assets/img/2022-05-31-12-58-50.png)
 
-![](/assets/img/2022-05-31-08-37-32.png)
+![](/assets/img/2022-05-31-13-00-01.png)
 
 After the app is added, you can open the app on the side bar and a Avaya Call login window will appear. Here you need to enter the login credentials for you AADS server.
 
@@ -72,13 +72,11 @@ After the app is added, you can open the app on the side bar and a Avaya Call lo
 
 Is the login successful, the user has accesss to the contacts and favorites added to the Workplace Client.
 
-![](/assets/img/2022-05-31-08-37-52.png)
-
-![](/assets/img/2022-05-31-08-37-57.png)
+![](/assets/img/2022-05-31-13-04-58.png)
 
 You can make a call while clicking on the Phone or Video icon. Here the installed Workplace Client should open and starts dialing.
 When you click on the chat icon a new chat in MS Teams will start.
 
 The user has also access to the Office 365 contacts and they can be called in the same way like the Avaya contacts.
 
-![](/assets/img/2022-05-31-08-38-15.png)
+![](/assets/img/2022-05-31-12-56-11.png)
