@@ -10,7 +10,7 @@ order: 4
 My name is Armin,
 born and living in Berlin, Germany in the late 70's. Married, 2 Kids, a Cat and a Dog.
 
-Currently I'm working as a Technical Consultant specialised in Avaya Aura and Microsoft Teams.
+Currently I'm working as a Technical Consultant specialised in Avaya Aura.
 
 This is not a blog, here you will find thoughts, ideas, instructions and more.
 
