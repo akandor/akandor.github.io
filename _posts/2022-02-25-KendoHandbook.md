@@ -5,6 +5,9 @@ categories: [Kendo]
 tags: [kendo,shiai,shinpan]
 ---
 
+> This is an online version of the freely available [Handbook for Kendo Shiai and Shinpan Management](https://www.kendo.or.jp/wp/wp-content/uploads/2021/10/Handbook_for_Kendo_Shiai_and_Shinpan_Management.pdf). Copyright by the AJKF (All Japan Kendo Federation).
+{: .prompt-info }
+
 # Foreword
 
 A central focus of All Japan Kendo Federation (AJKF) activities since 2000 has been "Improving *shinpan* level in combination with comprehensive training to enhance the overall quality of kendo in Japan."  
